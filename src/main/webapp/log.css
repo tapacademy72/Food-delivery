@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+*
+{
+	margin:0;
+	padding:0;
+	
+	
+}	
+body
+{
+	background:url("pictures/geometric.avif")no-repeat;
+	background-size:1300px;
+}
+	
+h1,p,.submit
+{
+	color:purple;
+}
+	
+
+.round
+{
+	
+	text-align:center;
+	margin:130px 300px;
+	padding:50px;
+	
+}
+.input-text
+{
+	font-size:15px;
+	margin:20px;
+	padding:2px;
+	color:black;
+}
+input
+{
+	padding:10px;
+	color:black;
+}
+p
+{
+	font-size:20px;
+}
+.submit
+{
+	background-color:blue;
+	padding:5px 10px;
+	color:white;
+}
+a:hover
+{
+	color:blue;
+}

@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+*
+{
+	text-align:center;
+	
+}
+h1{
+	font-size:40px;
+	color:#720455;
+}
+body
+{
+	background:url("pictures/delivary.avif")no-repeat;
+	background-size:600px;
+	margin:180px 50px 200px 500px;
+}
+.check
+{
+	margin:20px;
+	font-size:20px;
+	color:#910A67;
+	
+}
+.order
+{
+	background-color:green;
+	padding:10px;
+	color:white;
+}

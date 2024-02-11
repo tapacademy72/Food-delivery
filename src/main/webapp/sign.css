@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+*
+{
+	margin:0;
+	padding:0;
+	text-align:center;
+	
+	
+}
+body
+{
+	margin:100px;
+	padding:50px;
+	background:url("pictures/backgroundLOGIN1.jpg")no-repeat;
+	background-size:1300px;
+	
+}
+h1
+{
+	color:blue;
+	font-size:40px;
+}
+.input-text
+{
+	color:blue;
+	font-size:20px;
+	padding:9px;
+	
+}
+
+input
+{
+	padding:10px;
+}
+.submit
+{
+	background-color:blue;
+	padding:10px 30px;
+	color:white;
+}

@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+*
+{
+	margin:0;
+	padding:0;
+	
+}
+body
+{
+	margin:50px;
+	padding:50px;
+	background:url("pictures/shopping.jpg");
+	background-size:1000px;
+}
+h1
+{
+	margin:5px;
+	padding:5px;
+	color:#1F2544;
+	font-size:40px;
+}
+h3,p
+{
+	font-size:20px;
+	padding:8px;
+	color:#D63484;
+}
+.Home
+{
+	text-decoration:none;
+}
+form
+{
+	padding:10px;
+}
+label
+{
+	color:#04364A;
+}
+.update-btn
+{
+	color:white;
+	background-color:green;
+	padding:4px 6px;
+	margin:3px;
+	
+	
+}
+.Home
+{
+	text-decoration:none;
+}
+a:hover {
+  color: red;
+}
+a
+{
+	font-size:15px;
+}
+
+.remove-btn
+{
+	color:white;
+	background-color:red;
+	padding:4px 6px;
+	margin:3px;
+}
+
+.btn
+{
+	background-color:#363062;
+	color:white;
+	padding:5px 10px;
+	
+}

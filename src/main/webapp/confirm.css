@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+*
+{
+	text-align:center;
+}
+
+.head
+{
+	color:green;
+	
+}
+
+.order{
+	color:red;
+	font-size:30px;
+	
+}
